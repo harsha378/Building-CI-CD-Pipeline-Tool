@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Replace with your repository URL and desired directory
-REPO_URL="https://github.com/harsha378/CI-CD-setup.git"
+REPO_URL="https://github.com/harsha378/Building-CI-CD-Pipeline-Tool.git"
 TARGET_DIR="/home/harsha/html"
 
 # Pull latest code

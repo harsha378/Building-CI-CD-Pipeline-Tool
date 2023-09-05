@@ -3,8 +3,8 @@ import json
 
 # Replace with your GitHub username, repository, and personal access token
 USERNAME = 'harsha378'
-REPO_NAME = 'CI-CD-setup'
-ACCESS_TOKEN = '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'
+REPO_NAME = 'Building-CI-CD-Pipeline-Tool'
+ACCESS_TOKEN = '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'
 # URL to the GitHub API endpoint for the commits of the repository
 url = f'https://api.github.com/repos/{USERNAME}/{REPO_NAME}/commits'
 
